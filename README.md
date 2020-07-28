@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CODE OF BUSINESS CONDUCT & ETHICS POLICY – CLIMAX MEDIA INC.
 
 You can use the [editor on GitHub](https://github.com/n0madicus/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
